@@ -13,3 +13,8 @@ After this simple app, I wanted to experiment with Apple's new ARkit. To this en
 
 ## What didnt work
 I also wanted to add 3d objects in the AR app, but I kept running into issues of non-recognized image asset. There are many file types for 3d objects (szn, sn). I degugged for a long time, and I could not figure out the error.
+
+## Tutorials
+- https://medium.com/libertyit/ar-madness-our-open-source-arkit-game-tutorial-part-one-game-design-and-first-arkit-app-1ba35bea136d
+- https://medium.com/walmartlabs/build-your-first-ar-app-3c9f682d4c89
+- https://www.appcoda.com/learnswift/
