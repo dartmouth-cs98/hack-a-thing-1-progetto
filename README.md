@@ -18,3 +18,7 @@ I also wanted to add 3d objects in the AR app, but I kept running into issues of
 - https://medium.com/libertyit/ar-madness-our-open-source-arkit-game-tutorial-part-one-game-design-and-first-arkit-app-1ba35bea136d
 - https://medium.com/walmartlabs/build-your-first-ar-app-3c9f682d4c89
 - https://www.appcoda.com/learnswift/
+- https://www.tutorialspoint.com/swift/index.htm
+- https://www.raywenderlich.com/6338-swift-tutorial-part-1-expressions-variables-and-constants
+- https://developer.apple.com/swift/
+- https://www.hackingwithswift.com/read/0/overview
